@@ -79,7 +79,7 @@
               <img src="https://img.shields.io/badge/Code-blue?style=for-the-badge&logo=github&logoColor=white">
             </a>
           </p>
-          <p><strong>Mini Weather Station</strong> built in <strong>C++</strong> using the <strong>Observer Design Pattern</strong> with different display modes.The system simulates a weather monitoring station that collects atmospheric data and automatically updates multiple display interfaces whenever weather conditions change</p>
+          <p><strong>Mini Weather Station</strong> built in <strong>C++</strong> using the <strong>Observer Design Pattern</strong> with different display modes.The system simulates a weather monitoring station that collects atmospheric data and automatically updates multiple display interfaces whenever weather conditions change.</p>
         </div>
       </td>
     </tr>
