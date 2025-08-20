@@ -70,7 +70,7 @@
       <h3 align="center">Mini Weather Station</h3>
       <div align="center">
         <a href="https://github.com/saad-jebbour/mini-weather-station" target="_blank">
-          <img src="https://cdn-icons-png.flaticon.com/512/481/481451.png" width="200" alt="Weather Station">
+          <img src="https://cdn-icons-png.flaticon.com/512/481/481451.png" width="500" alt="Weather Station">
         </a>
         <p>
           <a href="https://github.com/saad-jebbour/mini-weather-station" target="_blank">
