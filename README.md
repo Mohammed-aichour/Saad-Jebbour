@@ -110,11 +110,9 @@
 
 <!-- Visitor Counter -->
 <br>
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/saad-jebbour/count.svg">
-    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saad-jebbour&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 <br>
 <br>
 
