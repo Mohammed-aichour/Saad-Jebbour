@@ -66,22 +66,23 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">Mini Weather Station</h3>
-      <div align="center">
+    <td width="50%" style="text-align: center;"> 
+      <h3>Mini Weather Station</h3>
+      <a href="https://github.com/saad-jebbour/mini-weather-station" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/481/481451.png" width="200" height="200" alt="Weather Station">
+      </a>
+      <p>
         <a href="https://github.com/saad-jebbour/mini-weather-station" target="_blank">
-          <img src="https://cdn-icons-png.flaticon.com/512/481/481451.png" width="200" length="200" alt="Weather Station" style="display: block; margin: 0 auto;">
+          <img src="https://img.shields.io/badge/Code-blue?style=for-the-badge&logo=github&logoColor=white">
         </a>
-        <p>
-          <a href="https://github.com/saad-jebbour/mini-weather-station" target="_blank">
-            <img src="https://img.shields.io/badge/Code-blue?style=for-the-badge&logo=github&logoColor=white">
-          </a>
-        </p>
-        <p><strong>Mini Weather Station</strong> built in <strong>C++</strong> using the **Observer Design Pattern** with different display modes.</p>
-      </div>
+      </p>
+      <p>
+        <strong>Mini Weather Station</strong> built in <strong>C++</strong> using the <strong>Observer Design Pattern</strong> with different display modes.
+      </p>
     </td>
   </tr>
 </table>
+
 <br>
 
 <!-- Github Stats -->
