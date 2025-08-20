@@ -64,24 +64,27 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***My Projects***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Mini Weather Station</h3>
-      <div align="center">
-        <a href="https://github.com/saad-jebbour/mini-weather-station" target="_blank">
-          <img src="https://cdn-icons-png.flaticon.com/512/481/481451.png" width="500" alt="Weather Station" style="object-fit: cover;">
-        </a>
-        <p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Mini Weather Station</h3>
+        <div align="center">
           <a href="https://github.com/saad-jebbour/mini-weather-station" target="_blank">
-            <img src="https://img.shields.io/badge/Code-blue?style=for-the-badge&logo=github&logoColor=white">
+            <img src="https://cdn-icons-png.flaticon.com/512/481/481451.png" width="200" alt="Weather Station">
           </a>
-        </p>
-        <p><strong>Mini Weather Station</strong> built in <strong>C++</strong> using the **Observer Design Pattern** with different display modes.</p>
-      </div>
-    </td>
-  </tr>
-</table>
+          <p>
+            <a href="https://github.com/saad-jebbour/mini-weather-station" target="_blank">
+              <img src="https://img.shields.io/badge/Code-blue?style=for-the-badge&logo=github&logoColor=white">
+            </a>
+          </p>
+          <p><strong>Mini Weather Station</strong> built in <strong>C++</strong> using the <strong>Observer Design Pattern</strong> with different display modes.The system simulates a weather monitoring station that collects atmospheric data and automatically updates multiple display interfaces whenever weather conditions change</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 <br>
 
 <br>
