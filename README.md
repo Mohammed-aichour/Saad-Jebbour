@@ -1,6 +1,6 @@
 <!-- Banner / Quote -->
 <p align="center">
-  <img src="[https://i.imgur.com/N6sPNuX.png](https://w.wallhaven.cc/full/0p/wallhaven-0px2o3.jpg)" alt="Motivational Banner" />
+  <img src="wallhaven-4lod2r.png" alt="Motivational Banner" />
 </p>
 
 ---
