@@ -1,3 +1,8 @@
+> [!NOTE]
+> **Repository Provenance & Fork Notice**  
+> This repository is a fork / peer collaboration template maintained for academic reference from [@saad-jebbour](https://github.com/saad-jebbour).  
+> Curated and tracked within the engineering workspace of **Mohammed AICHOUR** ([@Mohammed-aichour](https://github.com/Mohammed-aichour)).
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <h1><b>Hi there, I'm </b><a href="https://github.com/saad-jebbour">Saad Jebbour</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
@@ -45,8 +50,6 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 
-
-
 ###### Frontend Development:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -61,9 +64,8 @@
 
 ---
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***My Projects***
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***Collaborative & Related Projects***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 <div align="center">
   <table>
@@ -79,14 +81,12 @@
               <img src="https://img.shields.io/badge/Code-blue?style=for-the-badge&logo=github&logoColor=white">
             </a>
           </p>
-          <p><strong>Mini Weather Station</strong> built in <strong>C++</strong> using the <strong>Observer Design Pattern</strong> with different display modes.The system simulates a weather monitoring station that collects atmospheric data and automatically updates multiple display interfaces whenever weather conditions change.</p>
+          <p><strong>Mini Weather Station</strong> built in <strong>C++</strong> using the <strong>Observer Design Pattern</strong> with different display modes. The system simulates a weather monitoring station that collects atmospheric data and automatically updates multiple display interfaces.</p>
         </div>
       </td>
     </tr>
   </table>
 </div>
-<br>
-
 <br>
 
 <!-- Github Stats -->
@@ -106,14 +106,5 @@
 </tr>
 </table>
 </p>
-<br>
-
-<!-- Visitor Counter -->
-<br>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saad-jebbour&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-<br>
-<br>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
